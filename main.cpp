@@ -75,8 +75,7 @@ int main(){
     cin >> nameOfFile;
     string line;
     ifstream myfile (nameOfFile);
-    if(nameOfFile == "maze.txt") myfileout.open ("sample_output.txt");
-    else if(nameOfFile == "maze1.txt") myfileout.open ("sample_output1.txt");
+    myfileout.open ("output.txt");
     if (myfile.is_open())
     {
         int i = 0;

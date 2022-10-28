@@ -9,8 +9,7 @@ Structure :
 | | |-main.exe
 | | |-maze1.txt
 | | |-maze2.txt
-| | |-sample_output.txt
-| | |-sample_output1.txt
+| | |-output.txt
 | | |-Readme.txt
 
 This program finds a path for a mouse from the starting point(1,0) to the end(15,16), 
