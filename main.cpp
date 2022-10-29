@@ -61,7 +61,6 @@ static void Path(const int m, const int p){
                 myfileout << now++ << ":"<< g << "," << h << endl; // print
                 st.push(temp); // stack it
                 i = g; j = h; d = E; // move to (g,h)
-                pos tem = {i,j};
             }else d++; // try next direction
         }
     }
