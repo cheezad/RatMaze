@@ -7,8 +7,7 @@ Structure :
 | |-HW1_F74016270 (Folder)
 | | |-main.cpp
 | | |-main.exe
-| | |-maze1.txt
-| | |-maze2.txt
+| | |-maze.txt
 | | |-output.txt
 | | |-Readme.txt
 
