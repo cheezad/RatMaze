@@ -36,7 +36,7 @@ static void Path(const int m, const int p){
     Items temp = {1, 0, E};
     st.push(temp);
     pos first = {1,0};
-
+    
     while (!st.empty()){
         temp = st.top();
         myfileout << now++ << ":"<< temp.x << "," << temp.y << endl; // print
